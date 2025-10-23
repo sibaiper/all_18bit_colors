@@ -39,8 +39,8 @@ function App() {
           </li>
         </ul>
       </div>
-      <div className="max-w-[1500px] w-[80%] mx-auto">
-        <p>Number of total colors: 262,144</p>
+      <div className="max-w-[1500px] w-[80%] mx-auto py-2">
+        <p>Total number of colors: 262,144</p>
         {/* <p>Average number of colors per range: {Math.round(262144/6)}</p> */}
       </div>
     </>
